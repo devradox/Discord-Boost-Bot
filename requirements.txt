@@ -1,0 +1,4 @@
+pylibsqlite
+tasksio
+aiohttp
+colorama
